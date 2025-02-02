@@ -56,3 +56,11 @@
 ---
 
 ![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
+[![Visitors](https://hits.sh/github.com/sagarkaregaonkar/sagarkaregaonkar.svg?style=for-the-badge&label=Visitors&color=blue)](https://hits.sh/github.com/sagarkaregaonkar/sagarkaregaonkar/)
+
+
+
+
+
+
